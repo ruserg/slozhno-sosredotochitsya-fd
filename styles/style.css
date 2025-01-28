@@ -260,7 +260,6 @@
     grid-template-rows: 1fr min-content 1fr;
   }
   .header__theme-menu {
-    margin: auto;
     grid-column: 1 / 2;
     grid-row: 1 / 2;
     margin: 0 auto;
