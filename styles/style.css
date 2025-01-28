@@ -154,7 +154,7 @@
 .footer .page-title {
   margin: auto;
 }
-@media only screen and (min-width: 780px) {
+@media only screen and (min-width: 768px) {
   .header {
     padding: 20px 20px 20px 5px;
   }
@@ -346,4 +346,9 @@
     grid-column: 2/4;
     grid-row: 3/4;
   }
+
+  .footer {
+    margin-top: 40px;
+  }  
+
 }
