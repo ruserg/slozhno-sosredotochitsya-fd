@@ -42,7 +42,7 @@
     --accent-bg-color: #ff8dcb;
     --accent-color: #353430;
   }
-  .rec {
+  .theme-auto .rec {
     visibility: hidden;
   }
 }
