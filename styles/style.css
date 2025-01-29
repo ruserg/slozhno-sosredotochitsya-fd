@@ -24,6 +24,7 @@
 
 .header__theme-menu {
   align-self: center;
+  margin-left: auto;
 }
 
 .accent-header-title {
@@ -75,9 +76,6 @@
   height: 9px;
   right: 10px;
   top: 8px;
-}
-.header__theme-menu {
-  margin-left: auto;
 }
 .header__theme-menu-button {
   background-color: transparent;
